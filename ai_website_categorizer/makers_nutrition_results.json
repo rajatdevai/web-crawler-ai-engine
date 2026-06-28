@@ -1,0 +1,360 @@
+{
+  "job_id": "eb2f2801-7cab-493c-a426-553c2b4a0779",
+  "url": "https://www.makersnutrition.com/",
+  "total_pages": 41,
+  "categories": {
+    "About": {
+      "page_count": 7,
+      "avg_confidence": 0.8857142857142859,
+      "pages": [
+        {
+          "url": "https://www.makersnutrition.com/press/jasons-position",
+          "title": "Jason's Position and Company Growth | Makers Nutrition\u00ae",
+          "confidence": 0.85,
+          "classification_method": "llm",
+          "needs_human_review": false
+        },
+        {
+          "url": "https://www.makersnutrition.com/press/organization/marquis-whos-who",
+          "title": "Marquis Who's Who",
+          "confidence": 0.85,
+          "classification_method": "llm",
+          "needs_human_review": false
+        },
+        {
+          "url": "https://www.makersnutrition.com/press/jason-provenzano-featured-in-the-february-2025-issue-of-time-magazine",
+          "title": "Jason Provenzano Featured in the February 2025 Issue of TIME Magazine | Makers Nutrition\u00ae",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        },
+        {
+          "url": "https://www.makersnutrition.com/press/jason-provenzano-has-been-inducted-into-the-prestigious-marquis-whos-who-biographical-registry",
+          "title": "Jason Provenzano Inducted into Marquis Who's Who | Makers Nutrition\u00ae",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        },
+        {
+          "url": "https://www.makersnutrition.com/press/stevie-award",
+          "title": "Stevie Award Recognition for Makers Nutrition | Makers Nutrition\u00ae",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        },
+        {
+          "url": "https://www.makersnutrition.com/press/jason-provenzano-shared-his-professional-achievements-and-industry-expertise-in-forbes",
+          "title": "Jason Provenzano shared his professional achievements and industry expertise in Forbes | Makers Nutrition\u00ae",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        },
+        {
+          "url": "https://www.makersnutrition.com/press/steves-backstory",
+          "title": "Steve's Journey in Supplement Industry | Makers Nutrition\u00ae",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        }
+      ]
+    },
+    "Services": {
+      "page_count": 18,
+      "avg_confidence": 0.9000000000000001,
+      "pages": [
+        {
+          "url": "https://www.makersnutrition.com/",
+          "title": "Contract Supplement Manufacturing | Makers Nutrition",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        },
+        {
+          "url": "https://www.makersnutrition.com/private-label/superfoods-and-collagen",
+          "title": "Private Label Superfoods & Collagen | Makers Nutrition",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        },
+        {
+          "url": "https://www.makersnutrition.com/press/147th-derby",
+          "title": "147th Derby | Makers Nutrition\u00ae",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        },
+        {
+          "url": "https://www.makersnutrition.com/supplement-manufacturer",
+          "title": "Top Supplement Manufacturer for Your Customers' Health Needs",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        },
+        {
+          "url": "https://www.makersnutrition.com/private-label/liquids",
+          "title": "Private Label Liquid Supplements",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        },
+        {
+          "url": "https://www.makersnutrition.com/private-label/pet-supplements",
+          "title": "Private Label Pet Products",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        },
+        {
+          "url": "https://www.makersnutrition.com/vitamin-package-design/",
+          "title": "Professional Vitamin Package Design | Makers Nutrition",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        },
+        {
+          "url": "https://www.makersnutrition.com/press/turnkey-services",
+          "title": "Turnkey Solutions for Supplement Manufacturing | Makers Nutrition\u00ae",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        },
+        {
+          "url": "https://www.makersnutrition.com/private-label",
+          "title": "Private Label Supplements & Vitamins - Learn More",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        },
+        {
+          "url": "https://www.makersnutrition.com/press/organization/fox-news",
+          "title": "Fox News",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        },
+        {
+          "url": "https://www.makersnutrition.com/supplement-manufacturer-quote",
+          "title": "Supplement Manufacturing Quote | Makers Nutrition",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        },
+        {
+          "url": "https://www.makersnutrition.com/news/2019-08-14-makers-nutrition-makes-2019-inc-5000/",
+          "title": "Inc. Magazine Unveils Its Annual List: the Inc. 5000",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        },
+        {
+          "url": "https://www.makersnutrition.com/private-label/sports-nutrition",
+          "title": "Private Label Sports Nutrition Formulas | Makers Nutrition\u00ae",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        },
+        {
+          "url": "https://www.makersnutrition.com/press/the-industry",
+          "title": "Navigating the Supplement Industry Today | Makers Nutrition\u00ae",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        },
+        {
+          "url": "https://www.makersnutrition.com/press/quality",
+          "title": "Focus on Quality in Supplement Manufacturing | Makers Nutrition\u00ae",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        },
+        {
+          "url": "https://www.makersnutrition.com/press/speed-to-market",
+          "title": "Speed to Market in Supplement Production | Makers Nutrition\u00ae",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        },
+        {
+          "url": "https://www.makersnutrition.com/press/philosophy-behind-supplement-manufacturing",
+          "title": "Philosophy Behind Supplement Manufacturing | Makers Nutrition\u00ae",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        },
+        {
+          "url": "https://www.makersnutrition.com/press/full-customization",
+          "title": "Full Customization for Supplement Products | Makers Nutrition\u00ae",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        }
+      ]
+    },
+    "Blog": {
+      "page_count": 7,
+      "avg_confidence": 0.9000000000000001,
+      "pages": [
+        {
+          "url": "https://www.makersnutrition.com/press/organization/forbes",
+          "title": "Forbes",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        },
+        {
+          "url": "https://www.makersnutrition.com/press/organization/worldwide-business-with-kathy-ireland",
+          "title": "Worldwide Business with kathy ireland\u00ae",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        },
+        {
+          "url": "https://www.makersnutrition.com/press/customer-service",
+          "title": "Importance of Customer Service in Supplements | Makers Nutrition\u00ae",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        },
+        {
+          "url": "https://www.makersnutrition.com/press/organization/time-magazine",
+          "title": "Time Magazine",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        },
+        {
+          "url": "https://www.makersnutrition.com/press/who-are-your-customers",
+          "title": "Who Are Your Customers in Supplement Manufacturing? | Makers Nutrition\u00ae",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        },
+        {
+          "url": "https://www.makersnutrition.com/press/trends",
+          "title": "Top Trends in the Supplement Industry | Makers Nutrition\u00ae",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        },
+        {
+          "url": "https://www.makersnutrition.com/press/future-goals",
+          "title": "Setting Future Goals in Supplement Industry | Makers Nutrition\u00ae",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        }
+      ]
+    },
+    "Private Label Supplements": {
+      "page_count": 1,
+      "avg_confidence": 0.9,
+      "pages": [
+        {
+          "url": "https://www.makersnutrition.com/private-label/tablets-and-caplets",
+          "title": "Private Label Supplements & Tablets | Makers Nutrition",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        }
+      ]
+    },
+    "Press Release": {
+      "page_count": 2,
+      "avg_confidence": 0.9,
+      "pages": [
+        {
+          "url": "https://www.makersnutrition.com/press/organization/cnbc",
+          "title": "CNBC",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        },
+        {
+          "url": "https://www.makersnutrition.com/press/back-in-the-game",
+          "title": "Back in the Game: Press Release | Makers Nutrition\u00ae",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        }
+      ]
+    },
+    "Private Label Protein Powders": {
+      "page_count": 1,
+      "avg_confidence": 0.9,
+      "pages": [
+        {
+          "url": "https://www.makersnutrition.com/private-label/protein-powders",
+          "title": "Private Label Protein Powders | Makers Nutrition\u00ae",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        }
+      ]
+    },
+    "Private Label Softgels": {
+      "page_count": 1,
+      "avg_confidence": 0.9,
+      "pages": [
+        {
+          "url": "https://www.makersnutrition.com/private-label/softgels",
+          "title": "Private Label Softgels | Makers Nutrition\u00ae",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        }
+      ]
+    },
+    "Gummies": {
+      "page_count": 1,
+      "avg_confidence": 0.95,
+      "pages": [
+        {
+          "url": "https://www.makersnutrition.com/private-label/gummies",
+          "title": "Private Label Gummies | Makers Nutrition\u00ae",
+          "confidence": 0.95,
+          "classification_method": "llm",
+          "needs_human_review": false
+        }
+      ]
+    },
+    "Private Label": {
+      "page_count": 1,
+      "avg_confidence": 0.9,
+      "pages": [
+        {
+          "url": "https://www.makersnutrition.com/private-label/immune",
+          "title": "Private Label Immune Formulas | Makers Nutrition\u00ae",
+          "confidence": 0.9,
+          "classification_method": "llm",
+          "needs_human_review": false
+        }
+      ]
+    },
+    "Capsules": {
+      "page_count": 1,
+      "avg_confidence": 0.95,
+      "pages": [
+        {
+          "url": "https://www.makersnutrition.com/private-label/capsules",
+          "title": "Private Label Capsules  | Makers Nutrition\u00ae",
+          "confidence": 0.95,
+          "classification_method": "llm",
+          "needs_human_review": false
+        }
+      ]
+    },
+    "Regulatory": {
+      "page_count": 1,
+      "avg_confidence": 1.0,
+      "pages": [
+        {
+          "url": "https://www.makersnutrition.com/press/fda-certification",
+          "title": "FDA Certification for Dietary Supplements | Makers Nutrition\u00ae",
+          "confidence": 1.0,
+          "classification_method": "deterministic",
+          "needs_human_review": false
+        }
+      ]
+    }
+  }
+}

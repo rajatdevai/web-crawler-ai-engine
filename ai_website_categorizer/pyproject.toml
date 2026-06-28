@@ -1,0 +1,42 @@
+[tool.poetry]
+name = "ai-website-categorizer"
+version = "0.1.0"
+description = "Enterprise-grade AI Website Categorization Platform"
+authors = ["Admin <admin@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "*"
+uvicorn = {extras = ["standard"], version = "*"}
+pydantic = "*"
+pydantic-settings = "*"
+sqlalchemy = {extras = ["asyncio"], version = "*"}
+asyncpg = "*"
+alembic = "*"
+redis = {extras = ["asyncio"], version = "*"}
+httpx = "*"
+beautifulsoup4 = "*"
+playwright = "*"
+lxml = "*"
+openai = "*"
+sentence-transformers = "*"
+numpy = "*"
+python-dotenv = "*"
+structlog = "*"
+prometheus-fastapi-instrumentator = "*"
+tenacity = "*"
+fake-useragent = "*"
+python-multipart = "*"
+tldextract = "^5.3.1"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.0.0"
+pytest-asyncio = "^0.23.0"
+aiosqlite = "^0.19.0"
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
